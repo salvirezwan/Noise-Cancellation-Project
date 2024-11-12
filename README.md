@@ -1,4 +1,4 @@
-# ARS-Travels-RDBMS-Project
+# Background Noise Cancellation
 
 This is a Digital Signal Processing Project that reduces background noise of an audio file. Three filters are implemented:
 - Weiner Filter
